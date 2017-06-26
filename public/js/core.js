@@ -1,1 +1,1 @@
-angular.module('bogoTodo', ['todoController', 'todoService']);
+angular.module('TodoApp', ['todoController', 'todoService']);
