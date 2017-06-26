@@ -1,5 +1,7 @@
 # MEAN Stack ToDo List
 
+This site uses the MEAN stack, MEAN is an acronym for MongoDB, ExpressJS, AngularJS and Node.js
+
 ## This is what the homepage looks like
 ![alt text](https://github.com/Higgins723/MEAN-ToDo-App/blob/master/README-Images/Homepage.png)
 
